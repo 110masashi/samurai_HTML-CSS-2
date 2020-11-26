@@ -13,4 +13,4 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
 ステージの変更取消を確認
-hogehoge
+fugafuga
